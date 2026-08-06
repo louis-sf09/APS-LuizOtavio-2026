@@ -1,6 +1,6 @@
 https://drive.google.com/file/d/1KG9QRQhPqUSKHG0BXCsuQopamk2GlH7r/view?usp=sharing
 
-Utilizei "<<include>>" nas 3 elipses que necessitavam do caso Identificar Leitor, dessa forma evitando ter que repeti-lo para todas elas. É importante utilizar "<<include>>" para otimizar o projeto, por exemplo, se for necessário alterar um caso incluído só é preciso mudá-lo em 1 único ponto e não em todos os casos que necessitam dele.
+Utilizei <<include >> nas 3 elipses que necessitavam do caso Identificar Leitor, dessa forma evitando ter que repeti-lo para todas elas. É importante utilizar <include> para otimizar o projeto, por exemplo, se for necessário alterar um caso incluído só é preciso mudá-lo em 1 único ponto e não em todos os casos que necessitam dele.
 
 Utilizei "<<extend>>" na elipse Reservar livro ligada ao caso Consultar acervo, pois é opcional que ao consultar o acervo o usuário reserve um livro.
 
