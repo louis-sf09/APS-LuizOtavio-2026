@@ -31,21 +31,18 @@
 |Cadastrar livro | RF02 | "Eu gostaria de poder cadastrar novos livros no sistema, porque as vezes recebemos livros novos." |
 | Consultar acervo | RF03 | "Eu queria conseguir ver os livros cadastrados para poder escolher um para reservar." |
 
-<!-- Nível A: conte o caminho completo de cada funcionalidade,
-     da fala do cliente até o que está desenhado no diagrama. -->
+## Relacionamento entre casos de uso
 
-## Relacionamento entre casos de uso (nível A)
-
-- Tipo: «include» ou «extend»
-- Entre: ______ e ______
-- Por que é esse e não o outro: ____________________
+- Tipo: «extend»
+- Entre: Reservar livro e Consultar acervo
+- Por que é esse e não o outro: O leitor consulta o acervo e após isso, pode ou não reservar um livro.
 
 ## Autoavaliação
 
-**Conceito pretendido:** ___ (A / B / C)
+**Conceito pretendido:** A
 
-- Conversei sobre esta atividade com: ______ (ou "ninguém")
-- Esteira da análise: ______ (diga onde)
-- Diagrama e notação: ______
-- Rastreabilidade: ______
-- Organização da entrega: ______
+- Conversei sobre esta atividade com: Profe. Berssa
+- Esteira da análise: A
+- Diagrama e notação: A
+- Rastreabilidade: A
+- Organização da entrega: A
