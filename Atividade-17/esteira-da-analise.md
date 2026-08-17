@@ -27,8 +27,9 @@
 
 | Elipse no diagrama | Veio do requisito | Que veio da fala |
 |---|---|---|
-| | RF01 | "..." |
-| | RF02 | "..." |
+| Reservar livro | RF01 | "Eu queria poder deixar um livro reservado para mim, para que caso eu demore para pega-lo outra pessoa não pegue antes de mim." |
+|Cadastrar livro | RF02 | "Eu gostaria de poder cadastrar novos livros no sistema, porque as vezes recebemos livros novos." |
+| Consultar acervo | RF03 | "Eu queria conseguir ver os livros cadastrados para poder escolher um para reservar." |
 
 <!-- Nível A: conte o caminho completo de cada funcionalidade,
      da fala do cliente até o que está desenhado no diagrama. -->
