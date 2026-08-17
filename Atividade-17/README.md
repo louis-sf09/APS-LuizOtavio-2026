@@ -1,6 +1,6 @@
 # Atividade 17 — Da esteira ao diagrama (BiblioTech)
 
-- **Aluno(a):** SEU NOME COMPLETO
+- **Aluno(a):** LUIZ OTÁVIO DE SOUZA FREO
 - **Turma:** 2º ano — Técnico em Informática Integrado
 - **Disciplina:** Análise e Projeto de Sistemas — Profe. Berssa
 
